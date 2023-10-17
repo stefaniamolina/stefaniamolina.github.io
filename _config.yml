@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Stefania Molina"
 title_separator          : "-"
 name                     : &name "Stefania Molina"
-description              : &description "PhD Candidate at DYNAMICS RTG"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Stefania Molina's website"
+url                      : https://stefaniamolina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stefaniamolina.github.io"
+repository               : "stefaniamolina/stefaniamolina.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -99,7 +99,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/stefaniamolina/"
   orcid            : "https://orcid.org/0000-0002-4131-831X"
   pinterest        :
   soundcloud       :
