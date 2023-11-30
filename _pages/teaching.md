@@ -11,16 +11,19 @@ author_profile: true
 <sub>Hertie School 2023</sub>
   
 **Introduction do R Workshop** 
-* Postgraduate course
-* Lecturer
-* Hertie School 2023
+
+<sub>Postgraduate course</sub> \
+<sub>Lecturer</sub> \
+<sub>Hertie School 2023</sub> 
 
 **Public Policies and Demographic Change**
-* Postgraduate course
-* Teaching Assistant
-* Hertie School 2022
+
+<sub>Postgraduate course</sub> \
+<sub>Teaching Assistant</sub> \
+<sub>Hertie School 2022</sub> 
 
 **Applied Logistic Regression**
-* Postgraduate course
-* Teaching Assistant
-* Hertie School 2022
+
+<sub>Postgraduate course</sub> \
+<sub>Teaching Assistant</sub> \
+<sub>Hertie School 2022</sub> 
