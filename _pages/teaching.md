@@ -6,9 +6,9 @@ author_profile: true
 ---
 **Social Inequality**
 
-<sub>* Postgraduate course</sub>
-<sub>* Teaching Assistant</sub>
-<sub>* Hertie School 2023</sub>
+* <sub>Postgraduate course</sub>
+* <sub>Teaching Assistant</sub>
+* <sub>Hertie School 2023</sub>
   
 **Introduction do R Workshop** 
 * Postgraduate course
