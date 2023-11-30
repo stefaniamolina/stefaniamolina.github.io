@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 **Social Inequality**
-* Postgraduate course
-* Teaching Assistant
-* Hertie School 2023
+<sub>* Postgraduate course</sub>
+<sub>* Teaching Assistant</sub>
+<sub>* Hertie School 2023</sub>
   
 **Introduction do R Workshop** 
 * Postgraduate course
