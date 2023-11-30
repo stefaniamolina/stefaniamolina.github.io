@@ -4,12 +4,22 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-**2023**
+**Social Inequality**
+* Postgraduate course
+* Teaching Assistant
+* Hertie School 2023
+  
+**Introduction do R Workshop** 
+* Postgraduate course
+* Lecturer
+* Hertie School 2023
 
-* Social Inequality | Postgraduate | Teaching Assistant 
-* Introduction do R Workshop | Postgraduate | Lecturer
+**Public Policies and Demographic Change**
+* Postgraduate course
+* Teaching Assistant
+* Hertie School 2022
 
-**2022**
-
-* Public Policies and Demographic Change | Postgraduate | Teaching Assistant
-* Applied Logistic Regression | Postgraduate | Teaching Assistant
+**Applied Logistic Regression**
+* Postgraduate course
+* Teaching Assistant
+* Hertie School 2022
