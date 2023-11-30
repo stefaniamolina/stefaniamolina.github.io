@@ -4,12 +4,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-*2023*
+**2023**
 
 * Social Inequality | Postgraduate | Teaching Assistant 
 * Introduction do R Workshop | Postgraduate | Lecturer
 
-*2022*
+**2022**
 
 * Public Policies and Demographic Change | Postgraduate | Teaching Assistant
 * Applied Logistic Regression | Postgraduate | Teaching Assistant
