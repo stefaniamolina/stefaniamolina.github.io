@@ -6,7 +6,8 @@ author_profile: true
 ---
 **Social Inequality**
 
-* <sub>Postgraduate course</sub>
+/small Postgraduate course
+
 * <sub>Teaching Assistant</sub>
 * <sub>Hertie School 2023</sub>
   
