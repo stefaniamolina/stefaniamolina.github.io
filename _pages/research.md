@@ -4,20 +4,21 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-**Working paper**
+##Working paper
 
 Molina, S. (2021). A Visual Exploration of Mortality and Fertility Development
 in France, Japan and the United States. *Hertie School Working Papers*. doi: [https://doi.org/10.48462/opus4-4187](https://doi.org/10.48462/opus4-4187)
 
-**Book chapter**
+##Book chapter
+
 Hipp, L., Schlüter, C. & Molina, S. (2022). The Role of Employers in the Implementation
 of Parental Leave Policies. In Alison Koslowski, Ivana Dobrotic, Sonja
 Blum (Eds.), *Research Handbook on Leave Policy: Parenting and Social Inequalities
 in a Global Perspective* (p.338-352). Edward Elgar Publishing. doi: [https://doi.org/10.4337/9781800372214.00036](https://doi.org/10.4337/9781800372214.00036)
 
-**Work in Progress**
+##Work in Progress
 
-Molina, S. Unmarried Motherhood and Infant Health: The Role of Intimate Partner violence in Colombia
+**Unmarried Motherhood and Infant Health: The Role of Intimate Partner violence in Colombia**
 
 <details>
   <summary>Abstract</summary>
@@ -26,8 +27,7 @@ Research has shown that growing family diversity, including motherhood among unm
 
 </details>
 
-Molina, S., Alonso-Perez, E & Kreyenfeld, M. Divorce and Mental Health: 
-Analysis at the Intersection of Age, Gender, and Income
+**Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income**<br>Enrique Alonso-Perez and Michaela Kreyenfeld<br>
 
 <details>
   <summary>Abstract</summary>
@@ -36,8 +36,7 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-Wagner, L., Molina, S., Kreyenfeld, M. & Alonso-Perez, E. Family Structure,
-Parental Partnership Quality & Child Wellbeing: A Dyadic Approach
+**Family Structure, Parental Partnership Quality & Child Wellbeing: A Dyadic Approach**<br>Lena Wagner, Michaela Kreyenfeld, and Enrique Alonso-Perez<br>
 
 <details>
   <summary>Abstract</summary>
@@ -46,7 +45,7 @@ This article adopts a dyadic and longitudinal perspective to examine how parenta
 
 </details>
 
-Kreyenfeld, M., Molina, S. & O´Sullivan, J. Union Dissolution and Mental Health: The Role of Conflict During Separation
+**Union Dissolution and Mental Health: The Role of Conflict During Separation**<br>Michaela Kreyenfeld and Julie O´Sullivan<br>
 
 <details>
   <summary>Abstract</summary>
