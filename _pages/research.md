@@ -27,7 +27,7 @@ Research has shown that growing family diversity, including motherhood among unm
 
 </details>
 
-**Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income**<br>Enrique Alonso-Perez and Michaela Kreyenfeld<br>
+**Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income**<br>with Enrique Alonso-Perez and Michaela Kreyenfeld<br>
 
 <details>
   <summary>Abstract</summary>
@@ -36,7 +36,7 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-**Family Structure, Parental Partnership Quality & Child Wellbeing: A Dyadic Approach**<br>Lena Wagner, Michaela Kreyenfeld, and Enrique Alonso-Perez<br>
+**Family Structure, Parental Partnership Quality & Child Wellbeing: A Dyadic Approach**<br>with Lena Wagner, Michaela Kreyenfeld, and Enrique Alonso-Perez<br>
 
 <details>
   <summary>Abstract</summary>
@@ -45,7 +45,7 @@ This article adopts a dyadic and longitudinal perspective to examine how parenta
 
 </details>
 
-**Union Dissolution and Mental Health: The Role of Conflict During Separation**<br>Michaela Kreyenfeld and Julie O´Sullivan<br>
+**Union Dissolution and Mental Health: The Role of Conflict During Separation**<br>with Michaela Kreyenfeld and Julie O´Sullivan<br>
 
 <details>
   <summary>Abstract</summary>
