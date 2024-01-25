@@ -4,19 +4,19 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-##Working paper
+## Working paper
 
 Molina, S. (2021). A Visual Exploration of Mortality and Fertility Development
 in France, Japan and the United States. *Hertie School Working Papers*. doi: [https://doi.org/10.48462/opus4-4187](https://doi.org/10.48462/opus4-4187)
 
-##Book chapter
+## Book chapter
 
 Hipp, L., Schlüter, C. & Molina, S. (2022). The Role of Employers in the Implementation
 of Parental Leave Policies. In Alison Koslowski, Ivana Dobrotic, Sonja
 Blum (Eds.), *Research Handbook on Leave Policy: Parenting and Social Inequalities
 in a Global Perspective* (p.338-352). Edward Elgar Publishing. doi: [https://doi.org/10.4337/9781800372214.00036](https://doi.org/10.4337/9781800372214.00036)
 
-##Work in Progress
+## Work in Progress
 
 **Unmarried Motherhood and Infant Health: The Role of Intimate Partner violence in Colombia**
 
