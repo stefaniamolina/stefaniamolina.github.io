@@ -4,11 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Working paper
-
-Molina, S. (2021). A Visual Exploration of Mortality and Fertility Development
-in France, Japan and the United States. *Hertie School Working Papers*. doi: [https://doi.org/10.48462/opus4-4187](https://doi.org/10.48462/opus4-4187)
-
 ## Book chapter
 
 Hipp, L., Schlüter, C. & Molina, S. (2022). The Role of Employers in the Implementation
@@ -37,7 +32,7 @@ This paper examines how divorce relates to mental health, and how this associati
 </details>
 
 **What Differences Does It Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families**<br>with Lena Wagner, Michaela Kreyenfeld, and Enrique Alonso-Perez<br>
-[Working Paper](https://osf.io/preprints/socarxiv/tzdvw).
+[Working Paper](https://osf.io/preprints/socarxiv/tzdvw)
 
 <details>
   <summary>Abstract</summary>
