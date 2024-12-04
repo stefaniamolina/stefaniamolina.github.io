@@ -41,16 +41,16 @@ A large body of research addresses whether and how parental partnership quality 
 
 </details>
 
-**Union Dissolution and Mental Health: The Role of Conflict During Separation**<br>with Michaela Kreyenfeld and Julie O´Sullivan<br>
+**Union Dissolution and Parental Mental Health: A Gender Perspective**<br>with Michaela Kreyenfeld and Julie O´Sullivan<br>
 
 <details>
   <summary>Abstract</summary>
   
-This paper uses longitudinal data from the German Family Panel (pairfam) to examine the relationship between separation and parental mental health (N=2,338). The outcome variable is depression, measured with the State-Trait Depression Scale (scale range zero to 30). We use fixed-effects regressions to address the question of how depression levels compare before and after separation with a matched control group. We further investigate differences in depression trajectories by gender and partnership quality. Undergoing a separation increases depression levels, but trajectories vary depending on gender and partnership quality. Depression levels gradually increase starting one year before separation among men in high-quality partnerships. Women who separate from a low-quality partnership have increased depression levels only one year before separation, suggesting that separation can be an escape route from dysfunctional relationships. 
+This paper uses longitudinal data from the German Family Panel (pairfam) to examine the relationship between separation and parental mental health (N=1,887). The outcome variable is depression, measured with the State-Trait Depression Scale (scale range zero to 30). We use fixed-effects regressions to address investigate differences in depression trajectories by gender and partnership quality with a matched control group. Undergoing a separation increases depression levels, but trajectories vary depending on gender and partnership quality. Depression levels gradually increase starting one year before separation among men in high-quality partnerships. Women who separate from a low-quality partnership have increased depression levels only one year before separation, suggesting that separation can be an escape route from dysfunctional partnerships. 
 
 </details>
 
-**Women's economic independence and intimate partner violence during separation** <br>with Lena Wagner and Michaela Kreyenfeld<br>
+**Women's Economic Independence and Intimate Partner Violence During Separation** <br>with Lena Wagner and Michaela Kreyenfeld<br>
 
 <details>
   <summary>Abstract</summary>
