@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-You can download my CV [here](https://stefaniamolina.github.io/files/CV_Stefania_Molina_2025.pdf).
+You can download my CV [here](https://stefaniamolina.github.io/files/CV_SMolina_2025.pdf).
