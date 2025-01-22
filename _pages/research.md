@@ -4,25 +4,22 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Peer-reviewed journal article
+Molina, S. (2025) Unmarried Motherhood and Infant Health: The Role of Intimate Partner Violence in Colombia. *Demographic Research, 52*(6), 141-178. doi: [10.4054/DemRes.2025.52.6](https://doi.org/10.4054/DemRes.2025.52.6)
+
 ## Book chapter
 
 Hipp, L., Schlüter, C. & Molina, S. (2022). The Role of Employers in the Implementation
 of Parental Leave Policies. In Alison Koslowski, Ivana Dobrotic, Sonja
 Blum (Eds.), *Research Handbook on Leave Policy: Parenting and Social Inequalities
-in a Global Perspective* (p.338-352). Edward Elgar Publishing. doi: [https://doi.org/10.4337/9781800372214.00036](https://doi.org/10.4337/9781800372214.00036)
+in a Global Perspective* (p.338-352). Edward Elgar Publishing. doi: [10.4337/9781800372214.00036](https://doi.org/10.4337/9781800372214.00036)
 
 ## Work in Progress
 
-**Unmarried Motherhood and Infant Health: The Role of Intimate Partner violence in Colombia**
+<strong>Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?</strong><br>with Enrique Alonso-Perez and Michaela Kreyenfeld<br>
 
-<details>
-  <summary>Abstract</summary>
-  
-Research has shown that growing family diversity, including motherhood among unmarried women, is associated with child well-being. However, little is known about whether and how intimate partner violence (IPV) relates to family diversity and child outcomes. Colombia is an ideal case to study these relationships due to its high prevalence of unmarried motherhood and the large fraction of women affected by IPV. I study the association between mother's partnership status and low birth weight and examine the role of physical IPV during pregnancy in this relationship. The study draws from the Colombian Demographic and Health Surveys data (2000, 2005, 2010, 2015) and selects mothers with children aged 0–1 who are married, cohabiting, separated, or never in a union. Descriptive analysis shows trends across time in the partnership status of women with newborn children, and logistic regression models estimate how mother's partnership status is associated with low birth weight and how IPV during pregnancy affects this relationship. There is a steep increase in unmarried motherhood over time. Further, separated and cohabiting mothers are more likely than married mothers to experience IPV during pregnancy. Still, cohabitees' levels of IPV are decreasing across the observation period to become more like those of married women. IPV explains some differences in low birth weight between separated and married mothers but not among cohabitees and married mothers. The paper highlights the relevance of IPV – and, more generally, past partnership quality – when analyzing a mother's partnership status and its links to child outcomes. 
-
-</details>
-
-**Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income**<br>with Enrique Alonso-Perez and Michaela Kreyenfeld<br>
+Divorce and Mental Health Is late divorce particularly harmful for women with low
+earnings?
 
 <details>
   <summary>Abstract</summary>
