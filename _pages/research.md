@@ -18,13 +18,11 @@ in a Global Perspective* (p.338-352). Edward Elgar Publishing. doi: [10.4337/978
 
 <strong>Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?</strong><br>with Enrique Alonso-Perez and Michaela Kreyenfeld<br>
 
-Divorce and Mental Health Is late divorce particularly harmful for women with low
-earnings?
-
 <details>
   <summary>Abstract</summary>
 
-This paper examines how divorce relates to mental health, and how this association is stratified by gender, age, and individual income. Data is drawn from German register data, which includes marital histories of divorcees and diagnosed health outcomes. The analytical sample includes persons aged 30-59 in 2015 (n=23,426,639). We employ a Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) in which the outcome variable is the annual incidence of mental disease diagnosis to compare the patterns of the newly divorced (divorced for less than four years) to the patterns of the never divorced. The analysis helps to identify high-risk populations along the age-gender-income spectrum. Compared to the never divorced, we find a very strong age gradient among newly divorced women. While age seems to be a general risk factor, the small group of women with a very high income face a relatively low risk of receiving a mental disease diagnosis. Among men, older and low-income males are at particularly high risk of being diagnosed with a mental disease.
+This paper examines the relationship between divorce and mental health, with a focus on how this association is stratified by sex, age, and individual income. In particular, we test the hypothesis that divorce at advanced ages (50-59) is particularly harmful for women with insufficient personal earnings. Data is drawn from German register data, which includes marital histories of divorcees and diagnosed health outcomes. The analytical sample includes persons aged 30-59 in 2015 (n=23,426,639). The outcome is the annual incidence of mental disease diagnosis which is examined from an
+intersectional approach by drawing on MAIHDA (Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy). Our findings indicate that women are at a higher risk of receiving a mental health diagnosis than men. Divorce significantly amplifies this risk. Additionally, low income poses a heightened risk for both womenand men, particularly when divorce occurs at advanced ages.
 
 </details>
 
