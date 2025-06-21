@@ -7,6 +7,8 @@ author_profile: true
 ## Peer-reviewed journal article
 Molina, S. (2025) Unmarried Motherhood and Infant Health: The Role of Intimate Partner Violence in Colombia. *Demographic Research, 52*(6), 141-178. doi: [10.4054/DemRes.2025.52.6](https://doi.org/10.4054/DemRes.2025.52.6)
 
+Molina, S., Wagner, L. & Kreyenfeld, M. (2025). Women’s economic independence and physical intimate partner violence (IPV) during separation. *PLoS One, 20*(6): e0326529. doi: [10.1371/journal.pone.0326529](https://doi.org/10.1371/journal.pone.0326529)
+
 ## Book chapter
 
 Hipp, L., Schlüter, C. & Molina, S. (2022). The Role of Employers in the Implementation
@@ -45,11 +47,4 @@ This paper examines parental mental health over the separation process and raise
 
 </details>
 
-**Women's Economic Independence and Intimate Partner Violence During Separation** <br>with Lena Wagner and Michaela Kreyenfeld<br>
 
-<details>
-  <summary>Abstract</summary>
-  
-A growing number of studies have addressed the issue of intimate partner violence (IPV). While some studies have shown that women's economic independence reduces the risk of physical IPV, the empirical evidence is still inconclusive. In particular, little is known about the factors that increase or reduce the likelihood of experiencing physical IPV during the immediate separation process. We use data from the German Family Panel (pairfam) for the years 2009-2022. The analytical sample consists of women who went through a separation since the last interview (n=789 person-years). We use logistic regression models to examine the determinants of the risks of physical IPV during separation. We find that mothers with minor children are at strongly elevated risk of physical IPV during separation (OR=1.89, p<.001) controlling for key sociodemographic characteristics. Low education as well as non-employment increases risks of physical IPV during separation for mothers and non-mothers. However, non-employment is a particular risk factor for lower educated mothers. Divorce and separation, especially when minor children are involved, can be a highly stressful time when partner conflict escalates and, in some cases, culminates in violence against the partner. This paper highlights the importance of maternal labor market integration and economic independence as a lever to reduce physical IPV and conflict during separation.
-
-</details>
