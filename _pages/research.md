@@ -7,7 +7,7 @@ author_profile: true
 ## Peer-reviewed journal article
 Molina, S. (2025) Unmarried Motherhood and Infant Health: The Role of Intimate Partner Violence in Colombia. *Demographic Research, 52*(6), 141-178. doi: [10.4054/DemRes.2025.52.6](https://doi.org/10.4054/DemRes.2025.52.6) | [Replication file](https://www.demographic-research.org/articles/volume/52/6)
 
-Molina, S., Wagner, L. & Kreyenfeld, M. (2025). Women’s economic independence and physical intimate partner violence (IPV) during separation. *PLoS One, 20*(6): e0326529. doi: [10.1371/journal.pone.0326529](https://doi.org/10.1371/journal.pone.0326529) | [Replication file](https://osf.io/preprints/socarxiv/tzdvw](https://github.com/MichaelaKreyenfeld/IPVGermany)
+Molina, S., Wagner, L. & Kreyenfeld, M. (2025). Women’s economic independence and physical intimate partner violence (IPV) during separation. *PLoS One, 20*(6): e0326529. doi: [10.1371/journal.pone.0326529](https://doi.org/10.1371/journal.pone.0326529) | [Replication file](https://github.com/MichaelaKreyenfeld/IPVGermany)
 
 ## Book chapter
 
