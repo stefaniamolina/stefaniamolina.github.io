@@ -86,6 +86,7 @@ author:
   location         : "Berlin, Germany"
   employer         :
   email            : "s.molina@phd.hertie-school.org"
+  googlescholar    : "https://scholar.google.com/citations?user=1W8UqBEAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +107,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  bluesky          : "https://bsky.app/profile/stefaniamolina.bsky.social"
   vine             :
   weibo            :
   xing             :
